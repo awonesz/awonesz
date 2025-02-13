@@ -1,11 +1,11 @@
 ![Header](https://github.com/awonesz/awonesz/blob/main/assets/4235d1c0d335909dabc9ccb693d44505.gif)
 
 
-## Hello, my dear friend! I'm a beginner (junior-junior+) developer. My main area of expertise is frontend development, although I also have some experience with backend. I use Arch btw.
+## ✒️ Hello, my dear friend! I'm a beginner (junior-junior+) developer. My main area of expertise is frontend development, although I also have some experience with backend. I use Arch btw.
 
 
 
-## Language and Tools
+## 👾 Language and Tools
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -40,7 +40,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-## IDE && OS
+## 🧠 IDE && OS
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
@@ -49,6 +49,11 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
+## 📊 Stats
 
-## Follow me
+![](https://github-readme-stats.vercel.app/api?username=awonesz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=awonesz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🪻 Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/panaceyya_dev)
