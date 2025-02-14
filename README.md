@@ -50,8 +50,7 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## 📊 Stats
-
-![](https://github-readme-stats.vercel.app/api?username=awonesz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![<img src="https://raw.githubusercontent.com/awonesz/awonesz/output/snake.svg" alt="Snake animation" />] <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awonesz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
